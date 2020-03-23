@@ -1,2 +1,2 @@
 #!/bin/sh
-exec python -m app.main
+PYTHONPATH=$(dirname $0) exec python -m app.main
