@@ -1,4 +1,4 @@
-![progress-banner](https://codecrafters.io/landing/images/default_progress_banners/git.png)
+[![progress-banner](https://app.codecrafters.io/progress/git/a1dae2f4-c33d-49ea-bfd1-d1f9cbc7b8d6)](https://app.codecrafters.io/users/AndrejAngelovski)
 
 This is a starting point for Python solutions to the
 ["Build Your Own Git" Challenge](https://codecrafters.io/challenges/git).
